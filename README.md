@@ -1,6 +1,6 @@
-<h2>Curso de "SQL com MySQL: manipule e consulte dados" da Alura (CONCLUÍDO)</h2>
+<h2>Curso de "Java: criando a sua primeira aplicação" da Alura (CONCLUÍDO)</h2>
 
-Este repositório contém o material do curso, abrangendo os conceitos: Banco de dados MySQL; Selects; Filtro Where; Adicionando dados com Insert; Atualize e apague com Update e Delete; Estruturção com Create Table e Alter Table. O curso tem como objetivo fornecer uma base sólida, portanto neste repositório estão exemplos de código, exercícios e projeto que desenvolvi.
+Este repositório contém o material do curso, abrangendo os conceitos abordados durante o curso.
 </br>
 
 <h3>Pré-requisitos</h3>
